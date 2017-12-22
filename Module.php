@@ -59,7 +59,7 @@ class Module extends \kouosl\base\Module
             'sourceLanguage' => 'en-US',
             'basePath' => '@kouosl/talep2/messages',
             'fileMap' => [
-                'talep2/talep' => 'talep.php',
+                'talep2/talep2' => 'talep2.php',
             ],
         ];
     }

@@ -2,7 +2,7 @@
     "name": "kouosl/talep",
     "description": "Yii2 KouOsl talep Module Integration",
     "type": "yii2-extension",
-    "keywords": ["yii2", "yii 2", "talep", "module", "modules"],
+    "keywords": ["yii2", "yii 2", "talep2", "module", "modules"],
     "license": "BSD-3-Clause",
     "authors": [
         {
